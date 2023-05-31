@@ -1,4 +1,4 @@
-# Sales-Insights-with-Pandas-
+# Sales-Insights-with-Pandas
 Used Pandas to perform EDA(Exploratory Data Analysis) on a sales dataset of a company to find out various trends in markets, gender, occupation of buyers, and documented my findings. 
 
 <img width="960" alt="image" src="https://github.com/AviroopPaul/Sales-Insights-with-Pandas-/assets/72408663/9becee18-05dd-466c-a936-110112acbb08">
